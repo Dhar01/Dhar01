@@ -1,6 +1,6 @@
 ### 👋 Hey everyone, I'm Loknath Dhar, a Linux Enthusiast
 
-A fresher computer-nerd from DIU who is passionate about Linux, Free (as in Freedom), and open-source software. 
+A fresher computer-nerd from DIU who is passionate about Linux, Free (as in Freedom), and open-source software.<br> 
 I love working in a Linux environment, for which I love learning about hardware and systems.
 
 Aspire to become Linux System Administrator and get into infosec later. I have experience in Debian and Arch-based Linux environments from the personal computer. My final year research was on a brief security analysis of MQTT, an IoT networking protocol.
