@@ -1,5 +1,12 @@
 ### 👋 Hey everyone, I'm Loknath Dhar, a Linux Enthusiast
 
+A fresher computer-nerd from DIU who is passionate about Linux, Free (*as in Freedom*), and open-source software.
+I love workinng in Linux environment, for which I love learning about hardware and systems.
+
+Aspire to become Linux System Administrator and get into infosec later. I have experience in Debian and Arch based Linux environment from personal computer. My final year research was on a brief security analysis on MQTT, an IoT networking protocol.
+
+
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dhar01&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <!--
