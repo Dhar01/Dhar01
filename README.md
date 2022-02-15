@@ -23,11 +23,9 @@ UCL 2021-22 is on.. 🔥
 
 # GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dhar01&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhar01&show_icons=true&theme=merko)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhar01&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 
 
