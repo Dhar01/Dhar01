@@ -17,7 +17,7 @@ Aspire to become Linux System Administrator and get into infosec later. I have e
  
 ### ⚡ Some Fun Facts about me ⚡
 
-I'm a huge football fan ⚽  supporting Liverpool and the only game I played till now is Fifa. ⚽
+I'm a huge football fan ⚽ supporting Liverpool and the only game I played till now is Fifa. ⚽
 
 UCL 2021-22 is on.. 🔥
 
