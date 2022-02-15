@@ -9,8 +9,11 @@ Aspire to become Linux System Administrator and get into infosec later. I have e
 
 # Find me around the web:
 
+<a href="https://www.linkedin.com/in/dhar01/" target="blank"><img align="center" src="https://github.com/Dhar01/Dhar01/blob/main/socials/linkedin.png" alt="" height="30" /></a>
+
 <!---I have to add social icon --->
 
+# GitHub Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dhar01&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
