@@ -12,7 +12,7 @@ Aspire to become Linux System Administrator and get into infosec later. I have e
 
 ### Find me around the web:
 
-<a href="https://www.linkedin.com/in/dhar01/" target="blank"><img align="center" src="https://github.com/Dhar01/Dhar01/blob/main/socials/linkedin.png" alt="" height="30" /></a>
+<a href="https://www.linkedin.com/in/dhar01/" target="blank"><img align="center" src="https://github.com/Dhar01/Dhar01/blob/main/socials/linkedin.svg" alt="" height="30" /></a>
 
  
 ### ⚡ Some Fun Facts about me ⚡
