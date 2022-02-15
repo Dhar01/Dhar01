@@ -5,7 +5,10 @@ I love working in a Linux environment, for which I love learning about hardware 
 
 Aspire to become Linux System Administrator and get into infosec later. I have experience in Debian and Arch-based Linux environments from the personal computer. My final year research was on a brief security analysis of MQTT, an IoT networking protocol.
 
-🌱 Currently, learning about manual & automation testing for SQA.
+🌱 Currently, learning about Manual & Automation testing for SQA.<br>
+🛠 Sharpening my skills on Linux & Networking.<br>
+✨ Looking for opportunities to grow.
+
 
 ### Find me around the web:
 
@@ -14,7 +17,7 @@ Aspire to become Linux System Administrator and get into infosec later. I have e
  
 ### ⚡ Some Fun Facts about me ⚡
 
-I'm a huge football fan, supporting Liverpool and the only game I played till now is Fifa. ⚽
+I'm a huge football fan ⚽  supporting Liverpool and the only game I played till now is Fifa. ⚽
 
 UCL 2021-22 is on.. 🔥
 
