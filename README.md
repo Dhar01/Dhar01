@@ -12,6 +12,7 @@
 A fresher, computer-nerd from DIU who is passionate about Linux, Free (as in Freedom), and open-source software.<br> 
 I love working in a Linux environment, for which I love learning about hardware and systems.
 
+
 Aspire to become Linux System Administrator and later, get into infosec. I have experience in Debian and Arch-based Linux environments from the personal computer. My final year research was on a brief security analysis of MQTT, an IoT networking protocol.
 
 - 🌱 Currently, learning about Manual & Automation testing for SQA.<br>
@@ -27,71 +28,12 @@ Aspire to become Linux System Administrator and later, get into infosec. I have 
   
   <summary> 🛠 Technologies and tools </summary>
   
-  <p> 
-  <h4>Programming Languages:</h4>
-  
-  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/python.svg"/>
-  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/cplusplus.svg" />
-  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/c.svg" />
-  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/java.svg" />
-  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/gnubash.svg" />
-  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/markdown.svg" />
-  
-  <h4>Database Management</h4>
-    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/sqlite.svg" />
-    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/mysql.svg" />
-  
-  <h4>Version Control</h4>
-    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/git.svg" />
-    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg" />
-  
-  <h4>Operating Systems</h4>
-    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linux.svg" />
-    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/kalilinux.svg" />
-    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/archlinux.svg" />
-    
-  <h4>Testing</h4>
-    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/jira.svg"/>
-    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/selenium.svg"/>
-  
-  <h4>Tools</h4>
-    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/visualstudiocode.svg"/>
-    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/neovim.svg"/>
-    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/nano.svg"/>
-    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/shell.svg"/>
-  
-  <h4>Office Tools</h4>
-    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/googlecloud.svg"/>
-    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/googlesheets.svg"/>
-  
-  <h4>Audio & Video Editing</h4>
-    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/audacity.svg"/>
-    
-  </p>
-  
-</td><td valign="top" width="33%">
-  
-  
-  <!---
-
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
-</div>
-  <p>
-    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Debian-A80030?style=flat-square&logo=Debian&logoColor=white"/>
-  </p>
--->
+#### Operating Systems
+ 
+![Linux](https://img.shields.io/badge/-Linux-grey?logo=Linux&logoColor=white&style=flat&logowidth=30)
+![Pop OS](https://img.shields.io/badge/-pop%20os-grey?logo=pop!_`OS&logoColor=white&style=flat&logowidth=30)
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-grey?logo=Kali-Linux&logoColor=white&style=flat&logowidth=30)
+![Manjaro](https://img.shields.io/badge/-Manjaro-grey?logo=Manjaro&logoColor=white&style=flat&logowidth=30)
 
   
 </details>
@@ -132,4 +74,26 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+
+  <!---
+
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
+</div>
+  <p>
+    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Debian-A80030?style=flat-square&logo=Debian&logoColor=white"/>
+  </p>
 -->
