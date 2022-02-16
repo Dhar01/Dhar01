@@ -28,46 +28,43 @@ Aspire to become Linux System Administrator and later, get into infosec. I have 
   
   <p> 
   <h4>Programming Languages:</h4>
-    <img src="https://github.com/Dhar01/Dhar01/blob/main/icons/c.svg" width="20" height="30"/>
-    <img src="https://github.com/Dhar01/Dhar01/blob/main/icons/python.svg" width="20" height="30"/>
-    <img src="https://github.com/Dhar01/Dhar01/blob/main/icons/java.svg" width="20" height="30"/>
-    <img src="https://github.com/Dhar01/Dhar01/blob/main/icons/gnubash.svg" width="20" height="30"/>
-    <img src="https://github.com/Dhar01/Dhar01/blob/main/icons/cplusplus.svg" width="20" height="30"/>
+  
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/python.svg"/>
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/cplusplus.svg" />
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/c.svg" />
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/java.svg" />
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/gnubash.svg" />
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/markdown.svg" />
   
   <h4>Database Management</h4>
-    <img src="https://github.com/Dhar01/Dhar01/blob/main/icons/sqlite.svg" width="20" height="30"/>
-    <img src="https://github.com/Dhar01/Dhar01/blob/main/icons/mysql.svg" width="20" height="30"/>
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/sqlite.svg" />
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/mysql.svg" />
   
   <h4>Version Control</h4>
-    <img src="https://github.com/Dhar01/Dhar01/blob/main/icons/github.svg" width="20" height="30"/>
-    <img src="https://github.com/Dhar01/Dhar01/blob/main/icons/git.svg" width="20" height="30"/>
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/git.svg" />
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg" />
   
   <h4>Operating Systems</h4>
-    <img src="https://github.com/Dhar01/Dhar01/blob/main/icons/linux.svg" width="20" height="30"/>
-    <img src="https://github.com/Dhar01/Dhar01/blob/main/icons/kalilinux.svg" width="20" height="30"/>
-    <img src="https://github.com/Dhar01/Dhar01/blob/main/icons/archlinux.svg" width="20" height="30"/>
-    <img src="https://github.com/Dhar01/Dhar01/blob/main/icons/solus.svg" width="20" height="30"/>
-  
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linux.svg" />
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/kalilinux.svg" />
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/archlinux.svg" />
+    
   <h4>Testing</h4>
-    <img src="https://github.com/Dhar01/Dhar01/blob/main/icons/jirasoftware.svg" width="20" height="30"/>
-    <img src="https://github.com/Dhar01/Dhar01/blob/main/icons/selenium.svg" width="20" height="30"/>
-  
-  <h4>Others</h4>
-    <img src="https://github.com/Dhar01/Dhar01/blob/main/icons/markdown.svg" width="20" height="30"/>
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/jira.svg"/>
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/selenium.svg"/>
   
   <h4>Tools</h4>
-    <img src="https://github.com/Dhar01/Dhar01/blob/main/icons/visualstudiocode.svg" width="20" height="30"/>
-    <img src="https://github.com/Dhar01/Dhar01/blob/main/icons/neovim.svg" width="20" height="30"/>
-    <img src="https://github.com/Dhar01/Dhar01/blob/main/icons/nano.svg" width="20" height="30"/>
-    <img src="https://github.com/Dhar01/Dhar01/blob/main/icons/joplin.svg" width="20" height="30"/>
-    <img src="https://github.com/Dhar01/Dhar01/blob/main/icons/anydesk.svg" width="20" height="30"/>
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/visualstudiocode.svg"/>
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/neovim.svg"/>
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/nano.svg"/>
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/shell.svg"/>
   
   <h4>Office Tools</h4>
-    <img src="https://github.com/Dhar01/Dhar01/blob/main/icons/googlecloud.svg" width="20" height="30"/>
-    <img src="https://github.com/Dhar01/Dhar01/blob/main/icons/googlesheets.svg" width="20" height="30"/>
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/googlecloud.svg"/>
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/googlesheets.svg"/>
   
   <h4>Audio & Video Editing</h4>
-    <img src="https://github.com/Dhar01/Dhar01/blob/main/icons/audacity.svg" width="20" height="30"/>
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/audacity.svg"/>
     
   </p>
   
