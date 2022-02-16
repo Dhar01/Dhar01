@@ -30,10 +30,10 @@ Aspire to become Linux System Administrator and later, get into infosec. I have 
   
 #### Operating Systems
  
-![Linux](https://img.shields.io/badge/-Linux-grey?logo=Linux&logoColor=white&style=flat&logowidth=30)
-![Pop OS](https://img.shields.io/badge/-pop%20os-grey?logo=pop!_`OS&logoColor=white&style=flat&logowidth=30)
-![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-grey?logo=Kali-Linux&logoColor=white&style=flat&logowidth=30)
-![Manjaro](https://img.shields.io/badge/-Manjaro-grey?logo=Manjaro&logoColor=white&style=flat&logowidth=30)
+![Linux](https://img.shields.io/badge/-Linux-grey?logo=Linux&logoColor=white&style=flat&logowidth=60)
+![Pop OS](https://img.shields.io/badge/-Pop%20OS-grey?logo=Pop!_OS&logoColor=white&style=flat&logowidth=60)
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-grey?logo=Kali-Linux&logoColor=white&style=flat&logowidth=60)
+![Manjaro](https://img.shields.io/badge/-Manjaro-grey?logo=Manjaro&logoColor=white&style=flat&logowidth=60)
 
   
 </details>
