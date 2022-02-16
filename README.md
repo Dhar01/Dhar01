@@ -22,6 +22,7 @@ Aspire to become Linux System Administrator and later, get into infosec. I have 
   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark"/>
 </p>
 
+
 <details>
   
   <summary> 🛠 Technologies and tools </summary>
