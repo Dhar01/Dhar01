@@ -26,6 +26,53 @@ Aspire to become Linux System Administrator and later, get into infosec. I have 
   
   <summary> 🛠 Technologies and tools </summary>
   
+  <p> 
+  <h4>Programming Languages:</h4>
+    <img src="https://github.com/Dhar01/Dhar01/blob/main/icons/c.svg" width="20" height="30"/>
+    <img src="https://github.com/Dhar01/Dhar01/blob/main/icons/python.svg" width="20" height="30"/>
+    <img src="https://github.com/Dhar01/Dhar01/blob/main/icons/java.svg" width="20" height="30"/>
+    <img src="https://github.com/Dhar01/Dhar01/blob/main/icons/gnubash.svg" width="20" height="30"/>
+    <img src="https://github.com/Dhar01/Dhar01/blob/main/icons/cplusplus.svg" width="20" height="30"/>
+  
+  <h4>Database Management</h4>
+    <img src="https://github.com/Dhar01/Dhar01/blob/main/icons/sqlite.svg" width="20" height="30"/>
+    <img src="https://github.com/Dhar01/Dhar01/blob/main/icons/mysql.svg" width="20" height="30"/>
+  
+  <h4>Version Control</h4>
+    <img src="https://github.com/Dhar01/Dhar01/blob/main/icons/github.svg" width="20" height="30"/>
+    <img src="https://github.com/Dhar01/Dhar01/blob/main/icons/git.svg" width="20" height="30"/>
+  
+  <h4>Operating Systems</h4>
+    <img src="https://github.com/Dhar01/Dhar01/blob/main/icons/linux.svg" width="20" height="30"/>
+    <img src="https://github.com/Dhar01/Dhar01/blob/main/icons/kalilinux.svg" width="20" height="30"/>
+    <img src="https://github.com/Dhar01/Dhar01/blob/main/icons/archlinux.svg" width="20" height="30"/>
+    <img src="https://github.com/Dhar01/Dhar01/blob/main/icons/solus.svg" width="20" height="30"/>
+  
+  <h4>Testing</h4>
+    <img src="https://github.com/Dhar01/Dhar01/blob/main/icons/jirasoftware.svg" width="20" height="30"/>
+    <img src="https://github.com/Dhar01/Dhar01/blob/main/icons/selenium.svg" width="20" height="30"/>
+  
+  <h4>Others</h4>
+    <img src="https://github.com/Dhar01/Dhar01/blob/main/icons/markdown.svg" width="20" height="30"/>
+  
+  <h4>Tools</h4>
+    <img src="https://github.com/Dhar01/Dhar01/blob/main/icons/visualstudiocode.svg" width="20" height="30"/>
+    <img src="https://github.com/Dhar01/Dhar01/blob/main/icons/neovim.svg" width="20" height="30"/>
+    <img src="https://github.com/Dhar01/Dhar01/blob/main/icons/nano.svg" width="20" height="30"/>
+    <img src="https://github.com/Dhar01/Dhar01/blob/main/icons/joplin.svg" width="20" height="30"/>
+    <img src="https://github.com/Dhar01/Dhar01/blob/main/icons/anydesk.svg" width="20" height="30"/>
+  
+  <h4>Office Tools</h4>
+    <img src="https://github.com/Dhar01/Dhar01/blob/main/icons/googlecloud.svg" width="20" height="30"/>
+    <img src="https://github.com/Dhar01/Dhar01/blob/main/icons/googlesheets.svg" width="20" height="30"/>
+  
+  <h4>Audio & Video Editing</h4>
+    <img src="https://github.com/Dhar01/Dhar01/blob/main/icons/audacity.svg" width="20" height="30"/>
+    
+  </p>
+  
+</td><td valign="top" width="33%">
+  <!---
   <p>
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
@@ -33,9 +80,8 @@ Aspire to become Linux System Administrator and later, get into infosec. I have 
     <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Debian-A80030?style=flat-square&logo=Debian&logoColor=white"/>
   </p>
+-->
 
-
-</td><td valign="top" width="33%">
   
 </details>
 
@@ -52,7 +98,7 @@ Aspire to become Linux System Administrator and later, get into infosec. I have 
 
 <details>
   
-  <summary> # GitHub Stats </summary>
+  <summary> 💻 GitHub Stats </summary>
   
   <br/>
 
