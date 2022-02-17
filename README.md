@@ -28,12 +28,20 @@ Aspire to become Linux System Administrator and later, get into infosec. I have 
   
   <summary> 🛠 Technologies and tools </summary>
   
+#### Programming Languages
+    
+  ![Python](https://img.shields.io/badge/-Python-grey?logo=Python&logoColor=white&style=flat&logowidth=150)
+  ![Java](https://img.shields.io/badge/-Java-grey?logo=Java&logoColor=brightgreen&style=flat&logowidth=150)
+  ![C++](https://img.shields.io/badge/-C++-grey?logo=cplusplus&logoColor=green&style=flat&logowidth=150)
+  ![Bash](https://img.shields.io/badge/-Bash-grey?logo=GNU-Bash&logoColor=green&style=flat&logowidth=150)
+  ![Markdown](https://img.shields.io/badge/-Markdown-grey?logo=Markdown&logoColor=white&style=flat&logowidth=150)
+  
 #### Operating Systems
  
-![Linux](https://img.shields.io/badge/-Linux-grey?logo=Linux&logoColor=white&style=flat&logowidth=60)
-![Pop OS](https://img.shields.io/badge/-Pop%20OS-grey?logo=Pop!_OS&logoColor=white&style=flat&logowidth=60)
-![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-grey?logo=Kali-Linux&logoColor=white&style=flat&logowidth=60)
-![Manjaro](https://img.shields.io/badge/-Manjaro-grey?logo=Manjaro&logoColor=white&style=flat&logowidth=60)
+  ![Linux](https://img.shields.io/badge/-Linux-grey?logo=Linux&logoColor=white&style=flat&logowidth=150)
+  ![Pop OS](https://img.shields.io/badge/-Pop!__OS-grey?logo=Pop!_OS&logoColor=white&style=flat&logowidth=150)
+  ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-grey?logo=Kali-Linux&logoColor=critical&style=flat&logowidth=150)
+  ![Manjaro](https://img.shields.io/badge/-Manjaro-grey?logo=Manjaro&logoColor=white&style=flat&logowidth=150)
 
   
 </details>
