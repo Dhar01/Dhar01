@@ -35,6 +35,7 @@ Aspire to become Linux System Administrator and later, get into infosec. I have 
   ![C++](https://img.shields.io/badge/-C++-grey?logo=cplusplus&logoColor=red&style=flat&logowidth=200)
   ![Bash](https://img.shields.io/badge/-Bash-grey?logo=GNU-Bash&logoColor=red&style=flat&logowidth=200)
   ![Markdown](https://img.shields.io/badge/-Markdown-grey?logo=Markdown&logoColor=red&style=flat&logowidth=200)
+ 
   
 ### Operating Systems
  
@@ -42,17 +43,17 @@ Aspire to become Linux System Administrator and later, get into infosec. I have 
   ![Pop!_OS](https://img.shields.io/badge/-Pop!__OS-grey?logo=Pop!_OS&logoColor=white&style=flat&logowidth=200)
   ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-grey?logo=Kali-Linux&logoColor=white&style=flat&logowidth=200)
   ![Manjaro](https://img.shields.io/badge/-Manjaro-grey?logo=Manjaro&logoColor=white&style=flat&logowidth=200)
+ 
+### Version Control
+  ![Git](https://img.shields.io/badge/-Git-grey?logo=Git&logoColor=red&style=flat&logowidth=200)
+  ![GitHub](https://img.shields.io/badge/-GitHub-grey?logo=GitHub&logoColor=red&style=flat&logowidth=200)
   
 ### Database Management
   ![SQLite](https://img.shields.io/badge/-SQLite-grey?logo=SQLite&logoColor=white&style=plastic&logowidth=200)
   ![MySQL](https://img.shields.io/badge/-MySQL-grey?logo=MySQL&logoColor=white&style=plastic&logowidth=200)
   
-  
-### Version Control
-  ![Git](https://img.shields.io/badge/-Git-grey?logo=Git&logoColor=red&style=flat&logowidth=200)
-  ![GitHub](https://img.shields.io/badge/-GitHub-grey?logo=GitHub&logoColor=red&style=flat&logowidth=200)
-  
-#### Tools
+
+### Tools
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-grey?logo=Visual-Studio-Code&logoColor=red&style=flat&logowidth=200)
   ![NeoVim](https://img.shields.io/badge/-NeoVim-grey?logo=NeoVim&logoColor=red&style=flat&logowidth=200)
   ![Nano](https://img.shields.io/badge/-Nano-grey?logo=Nano&logoColor=red&style=flat&logowidth=200)
@@ -63,7 +64,7 @@ Aspire to become Linux System Administrator and later, get into infosec. I have 
   
 </details>
 
-### Find me around the web:
+### 🔍 Find me around the web
 
 [![Linkedin: Dhar01](https://img.shields.io/badge/-Dhar01-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhar01/)](https://www.linkedin.com/in/dhar01/)
 [![Telegram: Dhar01](https://img.shields.io/badge/-Dhar01-0088cc?style=social&logo=Telegram&logoColor=white&link=https://t.me/Dhar01)](https://t.me/Dhar01)
