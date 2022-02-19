@@ -58,23 +58,17 @@ Aspire to become Linux System Administrator and later, get into infosec. I have 
   ![NeoVim](https://img.shields.io/badge/-NeoVim-282C34?logo=NeoVim&logoColor=red&style=flat&logowidth=200)
   ![Nano](https://img.shields.io/badge/-Nano-282C34?logo=Nano&logoColor=red&style=flat&logowidth=200)
 
-  
-  
 
   
 </details>
 
+
 ### 🔍 Find me around the web
 
 [![Linkedin: Dhar01](https://img.shields.io/badge/-Dhar01-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhar01/)](https://www.linkedin.com/in/dhar01/)
+[![Blog: Loknath's Space](https://img.shields.io/badge/-Lokanth's%20Space-grey?style=social&logo=Blogger&logoColor=orange&link=https://dhar01.github.io)](https://dhar01.github.io)
 [![Telegram: Dhar01](https://img.shields.io/badge/-Dhar01-0088cc?style=social&logo=Telegram&logoColor=white&link=https://t.me/Dhar01)](https://t.me/Dhar01)
-![GithHub Pages: Loknath's Space](https://img.shields.io/badge/-Loknath's%20Space-grey?logo=GithHub-Pages&logoColor=white&link=https://dhar01.github.io)](https://dhar01.github.io)              
-<!--
-[![GitHub Ghazi](https://img.shields.io/github/followers/gkhan205?label=follow&style=social)](https://github.com/gkhan205)
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCio7gIFilw6wsgbTZAVOBrg?style=social)
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCio7gIFilw6wsgbTZAVOBrg?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/codewithghazi?style=social)
--->
+
 
 <details>
   <summary> 💻 GitHub Stats </summary>
@@ -84,6 +78,11 @@ Aspire to become Linux System Administrator and later, get into infosec. I have 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhar01&theme=merko&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
   
 </details>
+
+
+
+
+
 
 <!--
 **Dhar01/Dhar01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
