@@ -30,36 +30,35 @@ Aspire to become Linux System Administrator and later, get into infosec. I have 
   
 ### Programming Languages
     
-  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=flat&logowidth=200)
-  ![Java](https://img.shields.io/badge/-Java-007396?logo=Java&logoColor=white&style=flat&logowidth=200)
-  ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat&logowidth=200)
-  ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=GNU-Bash&logoColor=white&style=flat&logowidth=200)
-  ![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=Markdown&logoColor=white&style=flat&logowidth=200)
+  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=flat)
+  ![Java](https://img.shields.io/badge/-Java-007396?logo=Java&logoColor=red&style=flat)
+  ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat)
+  ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=GNU-Bash&logoColor=white&style=flat)
+  ![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=Markdown&logoColor=white&style=flat)
  
   
 ### Operating Systems
  
-  ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&logoColor=white&style=flat&logowidth=200) 
-  ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?logo=Kali-Linux&logoColor=white&style=flat&logowidth=200)
+  ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&logoColor=white&style=flat) 
+  ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?logo=Kali-Linux&logoColor=white&style=flat)
   ![Manjaro](https://img.shields.io/badge/-Manjaro-35BF5C?logo=Manjaro&logoColor=white&style=flat)
  
 ### Version Control
   
-  ![Git](https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=red&style=flat&logowidth=200)
   ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=GitHub&logoColor=red&style=flat&logowidth=200)
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=GitHub&logoColor=red&style=flat)
   
 ### Database Management
   
-  ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=SQLite&logoColor=white&style=plastic&logowidth=200)
-  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=white&style=plastic&logowidth=200)
+  ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=SQLite&logoColor=white&style=plastic)
+  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=white&style=plastic)
   
 
 ### Tools
 
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=Visual-Studio-Code&logoColor=red&style=flat&logowidth=200)
-  ![NeoVim](https://img.shields.io/badge/-NeoVim-57A143?logo=NeoVim&logoColor=red&style=flat&logowidth=200)
-  ![Nano](https://img.shields.io/badge/-Nano-4A90E2?logo=Nano&logoColor=red&style=flat&logowidth=200)
+  ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+  ![NeoVim](https://img.shields.io/badge/-NeoVim-57A143?logo=NeoVim&logoColor=white&style=flat)
+  ![Nano](https://img.shields.io/badge/-Nano-4A90E2?logo=Nano&logoColor=white&style=flat)
 
 
   
