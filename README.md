@@ -1,12 +1,4 @@
 <h3 align="center">👋 Hi there! I'm Loknath Dhar, a Linux Enthusisast</h3>
-
-<!--
-<p align="center">
-  <a href="dhar01.github.io">Website</a> •
-  <a href="https://twitter.com/LoknathDhar01">Twitter</a>
-</p>
--->
-
 - - -
 
 A fresher, computer-nerd from DIU who is passionate about Linux, Free (as in Freedom), and open-source software.<br> 
@@ -71,6 +63,7 @@ Aspire to become Linux System Administrator and later, get into infosec. I have 
 [![Blog: Loknath's Space](https://img.shields.io/badge/-Lokanth's%20Space-grey?style=social&logo=Blogger&logoColor=orange&link=https://dhar01.github.io)](https://dhar01.github.io)
 [![Telegram: Dhar01](https://img.shields.io/badge/-Dhar01-0088cc?style=social&logo=Telegram&logoColor=white&link=https://t.me/Dhar01)](https://t.me/Dhar01)
 
+# 💻 GitHub Stats 
 
 <details>
   <summary> 💻 GitHub Stats </summary>
