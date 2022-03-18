@@ -54,7 +54,7 @@ Aspire to become Linux System Administrator and later, get into infosec. I have 
   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=white&style=plastic)
   
 
-### Tools
+### Utilities 
 
   ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
   ![NeoVim](https://img.shields.io/badge/-NeoVim-57A143?logo=NeoVim&logoColor=white&style=flat)
@@ -81,6 +81,10 @@ Aspire to become Linux System Administrator and later, get into infosec. I have 
   
 </details>
 
+
+<a href="https://badges.pufler.dev">
+    <img align="right" src="https://badges.pufler.dev/visits/tassiaaccioly/tassiaaccioly?color=yellow" alt="Visitors badge" />
+ </a>
 
 
 
