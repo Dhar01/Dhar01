@@ -18,7 +18,7 @@ Aspire to become Linux System Administrator and later, get into infosec. I have 
 
 <details>
   
-  <summary> 🛠 Technologies and tools </summary>
+  <summary> <h3> 🛠 Technologies and tool </h3> </summary>
   
 ### Programming Languages
     
