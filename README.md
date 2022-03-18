@@ -83,7 +83,7 @@ Aspire to become Linux System Administrator and later, get into infosec. I have 
 
 
 <a href="https://badges.pufler.dev">
-    <img align="right" src="https://badges.pufler.dev/visits/tassiaaccioly/tassiaaccioly?color=yellow" alt="Visitors badge" />
+    <img align="right" src="https://badges.pufler.dev/visits/Dhar01/Dhar01?color=yellow" alt="Visitors badge" />
  </a>
 
 
