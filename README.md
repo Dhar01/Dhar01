@@ -46,6 +46,7 @@ Aspire to become Linux System Administrator and later, get into infosec. I have 
 ### Version Control
   
   ![Git](https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=red&style=flat&logowidth=200)
+  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=GitHub&logoColor=red&style=flat&logowidth=200)
   
 ### Database Management
