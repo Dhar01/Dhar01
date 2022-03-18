@@ -1,4 +1,5 @@
-<h3 align="center">👋 Hi there! I'm Loknath Dhar, a Linux Enthusisast</h3>
+<h3 align="center">👋 Hi there! I'm Loknath Dhar, a Linux Enthusiast.</h3>
+
 - - -
 
 A fresher, computer-nerd from DIU who is passionate about Linux, Free (as in Freedom), and open-source software.<br> 
@@ -14,7 +15,6 @@ Aspire to become Linux System Administrator and later, get into infosec. I have 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark"/>
 </p>
-
 
 <details>
   
@@ -65,14 +65,8 @@ Aspire to become Linux System Administrator and later, get into infosec. I have 
 
 # 💻 GitHub Stats 
 
-<details>
-  <summary> 💻 GitHub Stats </summary>
-  <br/>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhar01&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhar01&theme=merko&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-  
-</details>
 
 
 <a href="https://badges.pufler.dev">
