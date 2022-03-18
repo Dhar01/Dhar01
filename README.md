@@ -39,10 +39,10 @@ Aspire to become Linux System Administrator and later, get into infosec. I have 
   
 ### Operating Systems
  
-  ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&logoColor=white&style=flat&logowidth=200) 
-  ![Pop!_OS](https://img.shields.io/badge/-Pop!__OS-282C34?logo=Pop!_OS&logoColor=white&style=flat&logowidth=200)
-  ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-282C34?logo=Kali-Linux&logoColor=white&style=flat&logowidth=200)
-  ![Manjaro](https://img.shields.io/badge/-Manjaro-282C34?logo=Manjaro&logoColor=white&style=flat&logowidth=200)
+    ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&logoColor=white&style=flat&logowidth=200) 
+    ![Pop!_OS](https://img.shields.io/badge/-Pop!__OS-48B9C7?logo=Pop!_OS&logoColor=white&style=flat&logowidth=200)
+    ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?logo=Kali-Linux&logoColor=white&style=flat&logowidth=200)
+    ![Manjaro](https://img.shields.io/badge/-Manjaro-35BF5C?logo=Manjaro&logoColor=white&style=flat&logowidth=200)
  
 ### Version Control
   ![Git](https://img.shields.io/badge/-Git-282C34?logo=Git&logoColor=red&style=flat&logowidth=200)
