@@ -14,11 +14,7 @@ Aspire to become Linux System Administrator and later, get into infosec. I have 
 
 <details>
   
-<<<<<<< HEAD
-  <summary> 🛠 Technoogy and tools </summary>
-=======
   <summary> 🛠 Technologies and tools </summary>
->>>>>>> 84561c753d6ba47d7132e3067c94b114a6484878
   
 ### Programming Languages
     
@@ -93,4 +89,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 
