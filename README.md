@@ -8,17 +8,13 @@ I love working in a Linux environment, for which I love learning about hardware 
 
 Aspire to become Linux System Administrator and later, get into infosec. I have experience in Debian and Arch-based Linux environments from the personal computer. My final year research was on a brief security analysis of MQTT, an IoT networking protocol.
 
-- 🌱 Currently, learning about Manual & Automation testing for SQA.<br>
+- 🌱 Currently, learning about Manual & Automation testing for SQA.
 - 🛠 Sharpening my skills on Linux & Networking.<br>
 - ✨ Looking for opportunities to grow.
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark"/>
-</p>
-
 <details>
   
-  <summary> <h3> 🛠 Technologies and tool </h3> </summary>
+  <summary> 🛠 Technologies and tools </summary>
   
 ### Programming Languages
     
@@ -51,11 +47,12 @@ Aspire to become Linux System Administrator and later, get into infosec. I have 
   ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
   ![NeoVim](https://img.shields.io/badge/-NeoVim-57A143?logo=NeoVim&logoColor=white&style=flat)
   ![Nano](https://img.shields.io/badge/-Nano-4A90E2?logo=Nano&logoColor=white&style=flat)
-
-
   
 </details>
 
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark"/>
+</p>
 
 ### 🔍 Find me around the web
 
@@ -65,8 +62,9 @@ Aspire to become Linux System Administrator and later, get into infosec. I have 
 
 # 💻 GitHub Stats 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhar01&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhar01&theme=merko&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhar01&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <a href="https://badges.pufler.dev">
