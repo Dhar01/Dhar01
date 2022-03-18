@@ -32,9 +32,9 @@ Aspire to become Linux System Administrator and later, get into infosec. I have 
     
   ![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=red&style=flat&logowidth=200)
   ![Java](https://img.shields.io/badge/-Java-007396?logo=Java&logoColor=red&style=flat&logowidth=200)
-  ![C++](https://img.shields.io/badge/-C++-282C34?logo=cplusplus&logoColor=red&style=flat&logowidth=200)
-  ![Bash](https://img.shields.io/badge/-Bash-282C34?logo=GNU-Bash&logoColor=red&style=flat&logowidth=200)
-  ![Markdown](https://img.shields.io/badge/-Markdown-282C34?logo=Markdown&logoColor=red&style=flat&logowidth=200)
+  ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=red&style=flat&logowidth=200)
+  ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=GNU-Bash&logoColor=red&style=flat&logowidth=200)
+  ![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=Markdown&logoColor=red&style=flat&logowidth=200)
  
   
 ### Operating Systems
