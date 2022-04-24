@@ -8,8 +8,8 @@ I love working in a Linux environment, for which I love learning about hardware 
 
 Aspire to become Linux System Administrator and later, get into infosec. I have experience in Debian and Arch-based Linux environments from the personal computer. My final year research was on a brief security analysis of MQTT, an IoT networking protocol.
 
-- 🌱 Currently, learning about Manual & Automation testing for SQA.
-- 🛠 Sharpening my skills on Linux & Networking.<br>
+- 🌱 Currently, learning skills needed for DevOps
+- 🛠  Sharpening my skills on Linux & Networking.
 - ✨ Looking for opportunities to grow.
 
 <details>
