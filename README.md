@@ -22,14 +22,11 @@ Aspire to become Linux System Administrator and later, get into infosec. I have 
   ![Java](https://img.shields.io/badge/-Java-007396?logo=Java&logoColor=red&style=flat)
   ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat)
   ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=GNU-Bash&logoColor=white&style=flat)
-  ![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=Markdown&logoColor=white&style=flat)
  
   
 ### Operating Systems
  
   ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&logoColor=white&style=flat) 
-  ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?logo=Kali-Linux&logoColor=white&style=flat)
-  ![Manjaro](https://img.shields.io/badge/-Manjaro-35BF5C?logo=Manjaro&logoColor=white&style=flat)
  
 ### Version Control
   
@@ -47,6 +44,11 @@ Aspire to become Linux System Administrator and later, get into infosec. I have 
   ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
   ![NeoVim](https://img.shields.io/badge/-NeoVim-57A143?logo=NeoVim&logoColor=white&style=flat)
   ![Nano](https://img.shields.io/badge/-Nano-4A90E2?logo=Nano&logoColor=white&style=flat)
+  
+  
+### Others
+  ![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=Markdown&logoColor=white&style=flat)
+
   
 </details>
 
