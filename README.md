@@ -2,15 +2,18 @@
 
 - - -
 
-A fresher, computer-nerd from DIU who is passionate about Linux, Free (as in Freedom), and open-source software.<br> 
+A fresher, computer-nerd from DIU who is passionate about Linux, Free (*as in Freedom*), and open-source software.<br> 
 I love working in a Linux environment, for which I love learning about hardware and systems.
 
 
 Aspire to become Linux System Administrator and later, get into infosec. I have experience in Debian and Arch-based Linux environments from the personal computer. My final year research was on a brief security analysis of MQTT, an IoT networking protocol.
+- [ ] 🌱 Currently, learning skills needed for DevOps
+- [ ] 🛠  Sharpening my skills on Linux & Networking.
+- [ ] ✨ Looking for opportunities to grow.
 
-- 🌱 Currently, learning skills needed for DevOps
-- 🛠  Sharpening my skills on Linux & Networking.
-- ✨ Looking for opportunities to grow.
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark"/>
+</p>
 
 <details>
   
@@ -52,10 +55,6 @@ Aspire to become Linux System Administrator and later, get into infosec. I have 
   
 </details>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark"/>
-</p>
-
 ### 🔍 Find me around the web
 
 [![Linkedin: Dhar01](https://img.shields.io/badge/-Dhar01-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhar01/)](https://www.linkedin.com/in/dhar01/)
@@ -90,6 +89,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
 
 
