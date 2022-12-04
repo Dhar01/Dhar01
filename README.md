@@ -57,9 +57,9 @@ Aspire to become Linux System Administrator and later, get into infosec. I have 
 
 ### 🔍 Find me around the web
 
-[![Linkedin: Dhar01](https://img.shields.io/badge/-Dhar01-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhar01/)](https://www.linkedin.com/in/dhar01/)
-[![Blog: Loknath's Space](https://img.shields.io/badge/-Lokanth's%20Space-grey?style=social&logo=Blogger&logoColor=orange&link=https://dhar01.github.io)](https://dhar01.github.io)
-[![Telegram: Dhar01](https://img.shields.io/badge/-Dhar01-0088cc?style=social&logo=Telegram&logoColor=white&link=https://t.me/Dhar01)](https://t.me/Dhar01)
+- [![Linkedin: Dhar01](https://img.shields.io/badge/-Dhar01-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhar01/)](https://www.linkedin.com/in/dhar01/)
+- [![Blog: Loknath's Space](https://img.shields.io/badge/-Lokanth's%20Space-grey?style=social&logo=Blogger&logoColor=orange&link=https://dhar01.github.io)](https://dhar01.github.io)
+- DM Me: [![Telegram: Dhar01](https://img.shields.io/badge/-Dhar01-0088cc?style=social&logo=Telegram&logoColor=white&link=https://t.me/Dhar01)](https://t.me/Dhar01)
 
 # 💻 GitHub Stats 
 
