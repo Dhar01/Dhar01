@@ -73,7 +73,9 @@ Aspire to become Linux System Administrator and later, get into infosec. I have 
  </a>
 
 
+# Resources/Notes
 
+- [Notes on Git](https://github.com/Dhar01/Git-Notes)
 
 
 <!--
