@@ -1,17 +1,15 @@
 # Hi, I'm Loknath Dhar
 
-- - -
-
 - 🖥️ Actively working on backend skills and technologies.
 - 🌱 I'm learning Go and data structure at the moment.
 - ✨ Actively looking for opportunities to grow!
 - ⚡ Linux Enthusiast!
 
-Find me around the web:
+### Find me around the web:
 
 - [![Blog: Loknath's Space](https://img.shields.io/badge/-Lokanth's%20Space-grey?style=social&logo=Blogger&logoColor=orange&link=https://dhar01.github.io)](https://dhar01.github.io)
-- [![Linkedin: Dhar01](https://img.shields.io/badge/-Dhar01-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhar01/)](https://www.linkedin.com/in/dhar01/)
 - [![Telegram: Dhar01](https://img.shields.io/badge/-Dhar01-0088cc?style=social&logo=Telegram&logoColor=blue&link=https://t.me/Dhar01)](https://t.me/Dhar01)
+- [![Linkedin: Dhar01](https://img.shields.io/badge/-Dhar01-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhar01/)](https://www.linkedin.com/in/dhar01/)
 
 
 
