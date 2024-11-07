@@ -15,12 +15,6 @@ Find me around the web:
 
 
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark"/>
-</p>
-
-
-
 
 <!--
 **Dhar01/Dhar01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
