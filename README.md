@@ -1,13 +1,12 @@
 # Hi, I'm Loknath Dhar
 
-- 🖥️ Actively working on backend skills and technologies.
+- 🖥️ Actively working on [backend skills and technologies](https://www.boot.dev/u/dhar01).
 - 🌱 I'm learning Go and data structure at the moment.
 - ✨ Actively looking for opportunities to grow!
 - ⚡ Linux Enthusiast!
 
 
-Check what I'm learning, my [boot.dev profile](https://www.boot.dev/u/dhar01)
-Reach me out on [telegram](https://t.me/Dhar01)
+
 
 <!--
 **Dhar01/Dhar01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
