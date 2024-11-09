@@ -2,8 +2,6 @@
 
 I'm a backend and DevOps Engineer, passionate about **Linux**, **automation**, and building efficient command line tools. I enjoy working on projects that dive into system administration, and **backend development**, and constantly exploring new ways to make processes faster, simpler, and more secure! 
 
-Check out my [bootdev profile](https://www.boot.dev/u/dhar01) to see what I'm learning at the moment.
-
 # 🔧 Technologies & Tools
 
 - **Languages**: Go, Python, Bash
@@ -17,6 +15,8 @@ Check out my [bootdev profile](https://www.boot.dev/u/dhar01) to see what I'm le
 - **Testing**: learning about writing efficient test cases (*in Golang*).
 
 > Resource alert! Check this top-notch resource: [Learn Go with tests!](https://quii.gitbook.io/learn-go-with-tests)
+
+Check out my [bootdev profile](https://www.boot.dev/u/dhar01) to review what I'm learning at the moment.
 
 # 📚 Currently Reading
 
