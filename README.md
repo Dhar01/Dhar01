@@ -6,6 +6,8 @@
 - ⚡ Linux Enthusiast!
 
 
+Check what I'm learning, my [boot.dev profile](https://www.boot.dev/u/dhar01)
+Reach me out on [telegram](https://t.me/Dhar01)
 
 <!--
 **Dhar01/Dhar01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
