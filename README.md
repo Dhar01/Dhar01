@@ -25,5 +25,5 @@ The great Golang documentation.
 # 📬 Connect with Me
 
 - **LinkedIn**: [Loknath Dhar](https://www.linkedin.com/in/dhar01/)
-- **Email**: [loknathdhar66](mailto:loknathdhar66@gmail.com) (*beware spammers!*)
+- **Email**: [loknathdhar66@gmail.com](mailto:loknathdhar66@gmail.com) (*beware spammers!*)
 - **Telegram**: preferable quick connect. say [Hi!](https://t.me/Dhar01)
