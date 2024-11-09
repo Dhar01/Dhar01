@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Loknath Dhar
 
-I'm a backend and DevOps Engineer, passionate about **Linux**, **automation**, and building efficient command line tools. I enjoy working on projects that dive into system administration, and backend development. Constantly exploring new ways to make processes faster, simpler, and more secure! Do check out [here](https://www.boot.dev/u/dhar01) on what I'm learning at the moment.
+I'm a backend and DevOps Engineer, passionate about **Linux**, **automation**, and building efficient command line tools. I enjoy working on projects that dive into system administration, and backend development, and constantly exploring new ways to make processes faster, simpler, and more secure! Check out my [bootdev profile](https://www.boot.dev/u/dhar01) to see what I'm learning at the moment.
 
 # 🔧 Technologies & Tools
 
@@ -14,15 +14,17 @@ I'm a backend and DevOps Engineer, passionate about **Linux**, **automation**, a
 - **DSA**: Implementing and understanding stacks, queues, and binary search trees
 - **Testing**: learning about writing efficient test cases (*in Golang*).
 
-> Resource alert! Check this top resource [Learn Go with tests!](https://quii.gitbook.io/learn-go-with-tests)
+> Resource alert! Check this top-notch resource: [Learn Go with tests!](https://quii.gitbook.io/learn-go-with-tests)
 
 # 📚 Currently Reading
 
 The great Golang documentation.
 
+# 📬 Connect with Me
 
+- [![Linkedin: Dhar01](https://img.shields.io/badge/-Dhar01-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhar01/)](https://www.linkedin.com/in/dhar01/)
 
-
+For quick connect, I prefer [telegram](https://t.me/Dhar01). I'm a full-time scouser (*football fan*?), say Hi!
 
 <!--
 **Dhar01/Dhar01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
