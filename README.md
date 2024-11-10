@@ -4,9 +4,11 @@ I'm a backend-focused (*DevOps too!*) Engineer, passionate about Linux, automati
 
 # 🔧 Technologies & Tools
 
+- **Systems**: Linux (*Debian, Arch*)
 - **Languages**: Go, Python, Bash
-- **DevOps & Cloud**: Docker, CI/CD pipelines
+- **DevOps & Cloud**: Docker, CI/CD pipelines, Nginx, Zabbix
 - **Backend Development**: RESTful APIs
+- **Database**: SQLite, Apache Solr
 - **Tools**: Linux Cli, Git, and `pokedexcli` (*my CLI project!*)
 
 # 🌱 What I'm learning
