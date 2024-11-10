@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Loknath Dhar
 
-I'm a backend and DevOps Engineer, passionate about Linux, automation, and building efficient command line tools. I enjoy working on projects that dive into system administration, and backend development, and constantly exploring new ways to make processes faster, simpler, and more secure! 
+I'm a backend-focused (*DevOps too!*) Engineer, passionate about Linux, automation, and building efficient command line tools. I enjoy working on projects that dive into system administration, and backend development, and constantly exploring new ways to make processes faster, simpler, and more secure! 
 
 # 🔧 Technologies & Tools
 
