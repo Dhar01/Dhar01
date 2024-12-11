@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Loknath Dhar
 
-I'm a backend-focused (*DevOps too!*) Engineer, passionate about Linux, automation, and building efficient command line tools. I enjoy working on projects that dive into system administration, and backend development, and constantly exploring new ways to make processes faster, simpler, and more secure! 
+I'm a backend-focused (*DevOps too!*) Engineer, passionate about Linux, automation, and building efficient command-line tools. I enjoy working on projects that dive into system administration, and backend development, and constantly exploring new ways to make processes faster, simpler, and more secure! 
 
 # 🔧 Technologies & Tools
 
@@ -8,12 +8,12 @@ I'm a backend-focused (*DevOps too!*) Engineer, passionate about Linux, automati
 - **Languages**: Go, Python, Bash
 - **DevOps & Cloud**: Docker, CI/CD pipelines, Nginx, Zabbix
 - **Backend Development**: RESTful APIs
-- **Database**: SQLite, Apache Solr
+- **Database**: PostgreSQL, SQLite, Apache Solr
 - **Tools**: Linux Cli, Git, and `pokedexcli` (*my CLI project!*)
 
 # 🌱 What I'm learning
 
-- **DSA**: Implementing and understanding stacks, queues, and binary search trees
+- **DSA**: Learning about stacks, queues, and binary search trees
 - **Testing**: learning about writing efficient test cases (*in Golang*).
 
 > Resource alert! Check this top-notch resource: [Learn Go with tests!](https://quii.gitbook.io/learn-go-with-tests)
