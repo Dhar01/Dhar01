@@ -6,14 +6,13 @@ I'm a backend-focused (*DevOps too!*) Engineer, passionate about Linux, automati
 
 - **Systems**: Linux (*Debian, Arch*)
 - **Languages**: Go, Python, Bash
-- **DevOps & Cloud**: Docker, CI/CD pipelines, Nginx, Zabbix
+- **DevOps**: Docker, CI/CD pipelines, Nginx, Zabbix
 - **Backend Development**: RESTful APIs
 - **Database**: PostgreSQL, SQLite, Apache Solr
 - **Tools**: Linux Cli, Git, and `pokedexcli` (*my CLI project!*)
 
 # 🌱 What I'm learning
 
-- **DSA**: Learning about stacks, queues, and binary search trees
 - **Testing**: learning about writing efficient test cases (*in Golang*).
 
 > Resource alert! Check this top-notch resource: [Learn Go with tests!](https://quii.gitbook.io/learn-go-with-tests)
