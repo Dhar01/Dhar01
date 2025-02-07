@@ -2,6 +2,8 @@
 
 I'm a backend-focused (*DevOps too!*) Engineer, passionate about Linux, automation, and building efficient command-line tools. I enjoy working on projects that dive into system administration, and backend development, and constantly exploring new ways to make processes faster, simpler, and more secure! 
 
+- 🔭 I’m currently working on [MediTrust](https://github.com/Dhar01/MediTrust)
+
 # 🔧 Technologies & Tools
 
 - **Systems**: Linux (*Debian, Arch*)
@@ -28,3 +30,9 @@ The great Golang documentation.
 - **LinkedIn**: [Loknath Dhar](https://www.linkedin.com/in/dhar01/)
 - **Email**: [loknathdhar66@gmail.com](mailto:loknathdhar66@gmail.com) (*beware spammers!*)
 - **Telegram**: preferable quick connect. say [Hi!](https://t.me/Dhar01)
+
+
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhar01&show_icons=true&locale=en&layout=compact" alt="dhar01" /></p>
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=dhar01&" alt="dhar01"/></p>
+
