@@ -32,7 +32,5 @@ The great Golang documentation.
 - **Telegram**: preferable quick connect. say [Hi!](https://t.me/Dhar01)
 
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhar01&show_icons=true&locale=en&layout=compact" alt="dhar01" /></p>
-
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=dhar01&" alt="dhar01"/></p>
 
