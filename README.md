@@ -2,8 +2,6 @@
 
 I'm a backend-focused (*DevOps too!*) Engineer, passionate about Linux, automation, and building efficient command-line tools. I enjoy working on projects that dive into system administration, and backend development, and constantly exploring new ways to make processes faster, simpler, and more secure! 
 
-- 🔭 I’m currently working on [MediTrust](https://github.com/Dhar01/MediTrust)
-
 # 🔧 Technologies & Tools
 
 - **Systems**: Linux (*Debian, Arch*)
