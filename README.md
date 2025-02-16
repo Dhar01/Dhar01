@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Loknath Dhar
 
-I'm a backend-focused (*DevOps too!*) Engineer, passionate about Linux, automation, and building efficient command-line tools. I enjoy working on projects that dive into system administration, and backend development, and constantly exploring new ways to make processes faster, simpler, and more secure! 
+I'm a backend-focused Software Engineer, passionate about Linux, automation, and building efficient command-line tools. I enjoy working on projects that dive into system administration, and backend development, and constantly exploring new ways to make processes faster, simpler, and more secure! I like strictly typed languages, and therefore, I have fallen in love with Go. Writing codes for humans and machines in the Linux environment makes me feel at ease.
 
 # 🔧 Technologies & Tools
 
@@ -9,7 +9,7 @@ I'm a backend-focused (*DevOps too!*) Engineer, passionate about Linux, automati
 - **DevOps**: Docker, CI/CD pipelines, Nginx, Zabbix
 - **Backend Development**: RESTful APIs
 - **Database**: PostgreSQL, SQLite, Apache Solr
-- **Tools**: Linux Cli, Git, and `pokedexcli` (*my CLI project!*)
+- **Tools**: Linux Cli, Git
 
 # 🌱 What I'm learning
 
