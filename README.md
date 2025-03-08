@@ -7,12 +7,14 @@ And, writing codes for humans and machines in the Linux environment makes me fee
 
 # 🔧 Technologies & Tools
 
-- **Systems**: Linux (*Debian, Arch*)
-- **Languages**: Go, Python, Bash
-- **DevOps**: Docker, CI/CD pipelines, Nginx, Zabbix
-- **Backend Development**: RESTful APIs
-- **Database**: PostgreSQL, SQLite, Apache Solr
-- **Tools**: Linux Cli, Git
+- **Programming Languages**: Go, JavaScript, Python
+- **Scripting Languages**: Go, Bash
+- **Backend & APIS**: REST API, JWT
+- **Database**: PostgreSQL, Apache Solr, SQLite
+- **Version Control & Workflow**: Git, GitHub, Markdown
+- **DevOps & Infrastructure**: Docker, CI/CD, Nginx, AWS, DigitalOcean
+- **Monitoring & Security**: Zabbix, Linux Server Administration
+- **Operating Systems**: Linux (*Debian*)
 
 # 🌱 What I'm learning
 
